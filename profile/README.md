@@ -5,3 +5,6 @@
 # Welcome to Chocobar Technologies Inc.
 ## Introduction
 We are Chocobar. We make advanced technologies in the field of software, hardware, cloud solutions, and IoT. Here, you can see our open source projects we have been working on.
+
+## To keep updated on Chocobar, follow our accounts:
+[Instagram](https://instagram.com/chocobartech)
